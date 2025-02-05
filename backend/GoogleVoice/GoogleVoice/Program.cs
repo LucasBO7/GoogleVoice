@@ -9,6 +9,7 @@ builder.Configuration.AddEnvironmentVariables();
 // Adiciona serviços ao container de dependência
 builder.Services.AddScoped<IAudioServices, AudioServices>();
 builder.Services.AddScoped<ISpeechServices, SpeechServices>();
+builder.Services.AddScoped<IConversationService, ConversationService>();
 
 // Add services to the container.
 

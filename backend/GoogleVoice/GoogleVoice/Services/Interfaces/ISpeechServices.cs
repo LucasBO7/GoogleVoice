@@ -2,6 +2,7 @@
 
 public interface ISpeechServices
 {
-    Task<string> UploadAndConvertAndRecognizeSpeech(IFormFile file);
-    Task<string> RecognizeSpeechFromFile(string fileName);
+    Task<string> UploadAndConvertAndRecognizeSpeechAsync(IFormFile file);
+    Task<string> RecognizeSpeechFromFileAsync(string fileName);
+    Task<string> SpeechTextAsync(string textToSpeech);
 }

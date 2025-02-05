@@ -23,7 +23,7 @@ public class SpeechController : ControllerBase
     {
         try
         {
-            string recognizedText = await _speechServices.UploadAndConvertAndRecognizeSpeech(formFile);
+            string recognizedText = await _speechServices.UploadAndConvertAndRecognizeSpeechAsync(formFile);
             return Ok(recognizedText);
         }
         catch (Exception ex)
@@ -31,4 +31,21 @@ public class SpeechController : ControllerBase
             return BadRequest("Houve um erro ao executar a requisição: " + ex.Message);
         }
     }
+
+    [HttpPost("SpeechText")]
+    public async Task<IActionResult> SpeechTextAsync(string textToSpeech)
+    {
+        try
+        {
+            string textSpeeched = await _speechServices.SpeechTextAsync(textToSpeech);
+            return Ok(textSpeeched);
+        }
+        catch (Exception)
+        {
+
+            throw;
+        }
+    }
+
+
 }
