@@ -37,6 +37,9 @@ public class SpeechController : ControllerBase
     {
         try
         {
+            if (String.IsNullOrWhiteSpace(textToSpeech))
+                return BadRequest("O campo 'textToSpeech' é obrigatório!");
+
             string textSpeeched = await _speechServices.SpeechTextAsync(textToSpeech);
             return Ok(textSpeeched);
         }
