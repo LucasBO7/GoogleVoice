@@ -10,9 +10,11 @@ builder.Configuration.AddEnvironmentVariables();
 builder.Services.AddScoped<IAudioServices, AudioServices>();
 builder.Services.AddScoped<ISpeechServices, SpeechServices>();
 builder.Services.AddScoped<IConversationService, ConversationService>();
+// Configuração de Dependências
+builder.Services.AddSingleton<IBrowserService, BrowserService>();
+builder.Services.AddSingleton<IWebSiteInteractionService, WebSiteInteractionService>();
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

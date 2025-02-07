@@ -92,7 +92,7 @@ public class ConversationService : IConversationService
             {
                 entities.Add(new TextEntity(
                     text: entity.GetProperty("text").GetString()!,
-                    category: entity.GetProperty("category").GetString()!,
+                    categoryEnum: Enum.TryParse<EntityCategory>(entity.GetProperty("category").GetString()!, out EntityCategory entityCategory) ? entityCategory : EntityCategory.None,
                     confidenceScore: entity.GetProperty("confidenceScore").GetDouble()
                 ));
             }
