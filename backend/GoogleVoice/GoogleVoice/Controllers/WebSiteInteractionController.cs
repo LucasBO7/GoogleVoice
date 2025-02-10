@@ -14,12 +14,26 @@ public class WebSiteInteractionController : ControllerBase
         _interactionService = interactionService;
     }
 
-    [HttpPost]
-    public IActionResult ScrollDown()
+    [HttpPost("ClickInElement")]
+    public async Task<IActionResult> ClickElement(string elementReferenceTexto)
     {
         try
         {
-            _interactionService.ScrollDown();
+            var clickElements = await _interactionService.ClickElement(elementReferenceTexto);
+            return Ok(clickElements);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest("Houve um erro! " + ex.Message);
+        }
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> ScrollDown()
+    {
+        try
+        {
+            await _interactionService.ScrollDown();
             return Ok("FOI!");
         }
         catch (Exception ex)

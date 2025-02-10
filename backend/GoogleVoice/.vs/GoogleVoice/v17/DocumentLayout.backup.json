@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\services\\browserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\services\\browserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\controllers\\browsercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\controllers\\browsercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\controllers\\websiteinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\controllers\\websiteinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\strategies\\websiteinteractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\strategies\\websiteinteractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\entities\\clickableelementsearchcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\entities\\clickableelementsearchcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\services\\websiteinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\services\\websiteinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\controllers\\websiteinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\controllers\\websiteinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\services\\interfaces\\iwebsiteinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +27,32 @@
       "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\strategies\\iwebsiteinteractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\strategies\\youtubeinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\strategies\\youtubeinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\controllers\\browsercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\controllers\\browsercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\entities\\analyzedconversationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\entities\\analyzedconversationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\services\\interfaces\\ibrowserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\services\\interfaces\\ibrowserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\entities\\textentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\entities\\textentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\entities\\analyzedconversationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\entities\\analyzedconversationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\strategies\\youtubeinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\strategies\\youtubeinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\entities\\textentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|solutionrelative:googlevoice\\entities\\textentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF10BD61-3E09-4E14-AFC7-95BE080BA4C0}|GoogleVoice\\GoogleVoice.csproj|c:\\users\\lucas\\desktop\\googlevoice\\backend\\googlevoice\\googlevoice\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,17 +70,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickableElementSearchCriteria.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\ClickableElementSearchCriteria.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Entities\\ClickableElementSearchCriteria.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\ClickableElementSearchCriteria.cs",
+              "RelativeToolTip": "GoogleVoice\\Entities\\ClickableElementSearchCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:10:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebSiteInteractionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
+              "RelativeToolTip": "GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAwLYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:59:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSiteInteractionService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\WebSiteInteractionService.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Services\\WebSiteInteractionService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\WebSiteInteractionService.cs",
+              "RelativeToolTip": "GoogleVoice\\Services\\WebSiteInteractionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:52:51.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnalyzedConversationResult.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
+              "RelativeToolTip": "GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:04:26.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSiteInteractionController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
+              "RelativeToolTip": "GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:41:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrowserController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\BrowserController.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Controllers\\BrowserController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\BrowserController.cs",
+              "RelativeToolTip": "GoogleVoice\\Controllers\\BrowserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:47:33.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "IBrowserService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
+              "RelativeToolTip": "GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:23:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IWebSiteInteractionStrategy.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\IWebSiteInteractionStrategy.cs",
               "RelativeDocumentMoniker": "GoogleVoice\\Strategies\\IWebSiteInteractionStrategy.cs",
               "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\IWebSiteInteractionStrategy.cs",
               "RelativeToolTip": "GoogleVoice\\Strategies\\IWebSiteInteractionStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T16:56:34.467Z",
               "EditorCaption": ""
@@ -88,32 +179,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WebSiteInteractionStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
-              "RelativeToolTip": "GoogleVoice\\Strategies\\WebSiteInteractionStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAsAAAAAAAAAA==",
+              "Title": "IWebSiteInteractionService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
+              "RelativeDocumentMoniker": "GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
+              "RelativeToolTip": "GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:59:59.608Z",
+              "WhenOpened": "2025-02-07T17:31:13.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WebSiteInteractionService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\WebSiteInteractionService.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Services\\WebSiteInteractionService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\WebSiteInteractionService.cs",
-              "RelativeToolTip": "GoogleVoice\\Services\\WebSiteInteractionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:52:51.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Program.cs",
               "RelativeDocumentMoniker": "GoogleVoice\\Program.cs",
@@ -121,64 +199,11 @@
               "RelativeToolTip": "GoogleVoice\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T03:40:04.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T03:40:04.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BrowserController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\BrowserController.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Controllers\\BrowserController.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\BrowserController.cs",
-              "RelativeToolTip": "GoogleVoice\\Controllers\\BrowserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:47:33.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BrowserService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\BrowserService.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Services\\BrowserService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\BrowserService.cs",
-              "RelativeToolTip": "GoogleVoice\\Services\\BrowserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:47:02.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IWebSiteInteractionService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
-              "RelativeToolTip": "GoogleVoice\\Services\\Interfaces\\IWebSiteInteractionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T17:31:13.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebSiteInteractionController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
-              "RelativeToolTip": "GoogleVoice\\Controllers\\WebSiteInteractionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T17:41:19.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ConversationController.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Controllers\\ConversationController.cs",
               "RelativeDocumentMoniker": "GoogleVoice\\Controllers\\ConversationController.cs",
@@ -186,12 +211,11 @@
               "RelativeToolTip": "GoogleVoice\\Controllers\\ConversationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:39:34.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:39:34.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "YoutubeInteractionService.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Strategies\\YoutubeInteractionService.cs",
               "RelativeDocumentMoniker": "GoogleVoice\\Strategies\\YoutubeInteractionService.cs",
@@ -199,37 +223,11 @@
               "RelativeToolTip": "GoogleVoice\\Strategies\\YoutubeInteractionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:17:01.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T16:17:01.498Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AnalyzedConversationResult.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
-              "RelativeToolTip": "GoogleVoice\\Entities\\AnalyzedConversationResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:04:26.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IBrowserService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
-              "RelativeDocumentMoniker": "GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
-              "RelativeToolTip": "GoogleVoice\\Services\\Interfaces\\IBrowserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T03:23:06.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "TextEntity.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\GoogleVoice\\backend\\GoogleVoice\\GoogleVoice\\Entities\\TextEntity.cs",
               "RelativeDocumentMoniker": "GoogleVoice\\Entities\\TextEntity.cs",

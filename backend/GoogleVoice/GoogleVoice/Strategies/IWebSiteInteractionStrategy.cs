@@ -2,8 +2,8 @@
 
 public interface IWebSiteInteractionStrategy
 {
-    void ClickElement();
-    void FillInput();
-    void ScrollUp();
-    void ScrollDown();
+    Task<string> ClickElement(string elementReferenceText);
+    Task FillInput();
+    Task ScrollUp();
+    Task ScrollDown();
 }

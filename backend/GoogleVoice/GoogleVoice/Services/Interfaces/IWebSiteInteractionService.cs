@@ -2,6 +2,7 @@
 
 public interface IWebSiteInteractionService
 {
-    public void ScrollDown();
-    public void ScrollUp();
+    Task<string> ClickElement(string elementReferenceText);
+    Task ScrollDown();
+    Task ScrollUp();
 }

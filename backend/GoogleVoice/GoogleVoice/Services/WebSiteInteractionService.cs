@@ -14,13 +14,19 @@ public class WebSiteInteractionService : IWebSiteInteractionService
         _interactionStrategy = new(_browserService.GetOrCreatePageAsync().Result);
     }
 
-    public void ScrollDown()
+    public async Task<string> ClickElement(string elementReferenceText)
     {
-        _interactionStrategy.ScrollDown();
+        var clickElements = await _interactionStrategy.ClickElement(elementReferenceText);
+        return clickElements;
     }
 
-    public void ScrollUp()
+    public async Task ScrollDown()
     {
-        _interactionStrategy.ScrollUp();
+        await _interactionStrategy.ScrollDown();
+    }
+
+    public async Task ScrollUp()
+    {
+        await _interactionStrategy.ScrollUp();
     }
 }
